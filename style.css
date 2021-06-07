@@ -43,7 +43,7 @@ h1 span::before {
     content: ' ';
     position: absolute;
     width: 3em;
-    background: #00BFFF;
+    /* background: #00BFFF; */
     height: .4em;
     bottom: 0;
     z-index: -1;
